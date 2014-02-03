@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="com.baro.app.web.persistence.mapper.CustomerMapper">
+	<select id="getAllCustomers" resultType="com.baro.app.web.persistence.model.Customer">
+		SELECT * FROM CUSTOMER
+	</select>
+	
+	<update id="updateCustomer" parameterType="com.baro.app.web.persistence.model.Customer">
+		UPDATE CUSTOMER
+		   SET FIRSTNAME = {#lastName}
+		 WHERE ID = {#id}
+	</update>
+	
+</mapper>

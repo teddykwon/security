@@ -1,0 +1,1149 @@
+body {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+h5 {
+	margin: 0px; padding: 0px;
+}
+h6 {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+ol {
+	margin: 0px; padding: 0px;
+}
+li {
+	margin: 0px; padding: 0px;
+}
+dl {
+	margin: 0px; padding: 0px;
+}
+dt {
+	margin: 0px; padding: 0px;
+}
+dd {
+	margin: 0px; padding: 0px;
+}
+table {
+	margin: 0px; padding: 0px;
+}
+th {
+	margin: 0px; padding: 0px;
+}
+td {
+	margin: 0px; padding: 0px;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+fieldset {
+	margin: 0px; padding: 0px;
+}
+legend {
+	margin: 0px; padding: 0px;
+}
+input {
+	margin: 0px; padding: 0px;
+}
+textarea {
+	margin: 0px; padding: 0px;
+}
+button {
+	margin: 0px; padding: 0px;
+}
+select {
+	margin: 0px; padding: 0px;
+}
+body {
+	font-family: "돋움",Dotum,Helvetica,sans-serif; font-size: 12px;
+}
+input {
+	font-family: "돋움",Dotum,Helvetica,sans-serif; font-size: 12px;
+}
+textarea {
+	font-family: "돋움",Dotum,Helvetica,sans-serif; font-size: 12px;
+}
+select {
+	font-family: "돋움",Dotum,Helvetica,sans-serif; font-size: 12px;
+}
+button {
+	font-family: "돋움",Dotum,Helvetica,sans-serif; font-size: 12px;
+}
+table {
+	font-family: "돋움",Dotum,Helvetica,sans-serif; font-size: 12px;
+}
+img {
+	border: 0px currentColor;
+}
+fieldset {
+	border: 0px currentColor;
+}
+ul {
+	list-style: none;
+}
+ol {
+	list-style: none;
+}
+em {
+	font-style: normal;
+}
+address {
+	font-style: normal;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: underline;
+}
+a:focus {
+	text-decoration: underline;
+}
+a:hover {
+	color: rgb(102, 102, 102);
+}
+a:active {
+	color: rgb(102, 102, 102);
+}
+a:focus {
+	color: rgb(102, 102, 102);
+}
+a:link {
+	color: rgb(102, 102, 102);
+}
+a:visited {
+	color: rgb(102, 102, 102);
+}
+legend {
+	display: none;
+}
+table {
+	border: 0px currentColor;
+}
+th {
+	border: 0px currentColor;
+}
+td {
+	border: 0px currentColor;
+}
+hr {
+	display: none;
+}
+button {
+	overflow: hidden; cursor: pointer;
+}
+.blind {
+	left: 0px; top: 0px; width: 1px; height: 1px; line-height: 0; overflow: hidden; font-size: 0px; visibility: hidden; position: absolute;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+body {
+	background: rgb(250, 250, 250); color: rgb(102, 102, 102); line-height: 16px;
+}
+.login_wrap {
+	margin: 50px auto 0px; width: 710px;
+}
+#header {
+	padding-top: 20px; border-bottom-color: rgb(38, 204, 34); border-bottom-width: 3px; border-bottom-style: solid;
+}
+#container {
+	border-top-color: rgb(36, 191, 32); border-top-width: 1px; border-top-style: solid; position: relative;
+}
+#content {
+	padding: 19px 10px 17px; overflow: hidden; border-top-color: rgb(255, 255, 255); border-top-width: 1px; border-top-style: solid;
+}
+h1 {
+	margin-bottom: 19px; display: block;
+}
+h1 a {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat; width: 158px; height: 30px; text-indent: -999em; display: block; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat;
+}
+.ad {
+	left: 329px; top: 19px; width: 350px; padding-left: 20px; border-left-color: rgb(241, 241, 241); border-left-width: 1px; border-left-style: solid; position: absolute;
+}
+.bar {
+	color: rgb(215, 218, 220);
+}
+.bar2 {
+	margin: 0px 5px; color: rgb(170, 170, 170); font-size: 16px;
+}
+.banner {
+	background: url("https://nid.naver.com/login/image/new/banner_dis.png") no-repeat 20px 0px; left: 329px; top: 19px; width: 350px; height: 300px; padding-left: 20px; border-left-color: rgb(241, 241, 241); border-left-width: 1px; border-left-style: solid; position: absolute;
+}
+.login {
+	margin: 0px 19px 20px 0px; top: 20px; width: 300px; height: 280px; color: rgb(102, 102, 102); font-size: 12px; position: relative;
+}
+.btn_login {
+	top: 0px; right: 0px; position: absolute; z-index: 14;
+}
+.chk_id {
+	margin-top: 7px; display: inline-block; position: relative;
+}
+.chk_login {
+	margin: -1px 0px 1px; vertical-align: middle;
+}
+.chk_ip {
+	display: inline-block; position: relative;
+}
+.lbl_long {
+	letter-spacing: -1px; cursor: pointer;
+}
+.ip_box {
+	width: 24px; height: 12px; overflow: hidden; margin-left: -3px; display: inline-block; position: relative;
+}
+.ip_box .chb_b {
+	left: 0px; top: 0px; width: 27px; height: 16px; position: absolute;
+}
+.ip_box::after {
+	background: rgb(250, 250, 250); left: 0px; top: 0px; width: 27px; height: 16px; display: block; position: absolute; z-index: 10; content: "";
+}
+.ip_box .lbl_type {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat -138px -51px; border: currentColor; left: -2px; top: 1px; width: 24px; height: 14px; text-indent: -999em; margin-left: 4px; vertical-align: top; position: absolute; z-index: 11 !important; cursor: pointer; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat -138px -51px;
+}
+.ip_box .on.lbl_type {
+	background-position: -138px -36px;
+}
+.ip_box :checked.chb_b + label {
+	background-position: -138px -36px;
+}
+.dis_id {
+	top: 87px; right: 0px; position: absolute;
+}
+.dis_id a {
+	color: rgb(102, 102, 102); font-size: 12px; text-decoration: underline;
+}
+.btn_help {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat 0px -34px; margin: 0px 1px 0px 2px; width: 14px; height: 14px; text-indent: -999em; display: inline-block; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat 0 -34px;
+}
+* + html .btn_help {
+	left: 2px; top: -2px; position: relative;
+}
+.error_box_v4 {
+	display: none;
+}
+.btn_help:focus {
+	border: 0px currentColor;
+}
+a.security {
+	color: rgb(24, 183, 17); font-family: tahoma; font-size: 11px; font-weight: bold;
+}
+.login_help {
+	width: 100%; bottom: 0px; overflow: hidden; position: absolute; -ms-zoom: 1;
+}
+.login_help a {
+	color: rgb(102, 102, 102); font-size: 12px;
+}
+.error_box {
+	padding: 10px; color: rgb(119, 119, 119); line-height: 15px; letter-spacing: -1px; font-size: 11px; z-index: 12;
+}
+.error_box_v {
+	background: url("https://nid.naver.com/login/image/new/sp_bg.png") no-repeat 0px -262px; padding: 8px 9px; border: 1px solid rgb(234, 231, 217); left: 10px; top: 160px; width: 279px; position: absolute; _background: url(https://nid.naver.com/login/image/new/sp_bg.gif) no-repeat 0 -262px;
+}
+.error_box_v h2 {
+	font-size: 11px; margin-bottom: 3px; display: inline-block;
+}
+.error_box_v h2 {
+	margin-left: 29px;
+}
+.error_box_v p {
+	margin-left: 29px;
+}
+.error_box_v h2.error_v {
+	padding: 5px 0px; margin-bottom: 0px;
+}
+.error_box_v .guide {
+	letter-spacing: 0px; font-weight: bold;
+}
+.error_box h2 {
+	color: rgb(85, 85, 85);
+}
+.login .input_box {
+	position: relative; z-index: 13;
+}
+.login .error_box {
+	background: url("https://nid.naver.com/login/image/new/sp_bg.png") no-repeat; left: 0px; top: 0px; padding-top: 18px; position: absolute; z-index: 12; _background: url(https://nid.naver.com/login/image/new/sp_bg.gif) no-repeat;
+}
+.login_error .error_box {
+	background: url("https://nid.naver.com/login/image/new/sp_bg.png") no-repeat; left: 0px; top: 0px; padding-top: 18px; position: absolute; z-index: 12; _background: url(https://nid.naver.com/login/image/new/sp_bg.gif) no-repeat;
+}
+.login .error_box strong {
+	color: rgb(85, 85, 85);
+}
+.error_box_v2 {
+	z-index: 12;
+}
+.login .error_box_v2 {
+	background-position: 0px -76px; top: 35px; width: 199px; height: 13px; -ms-zoom: 1;
+}
+.login_error .error_box_v2 {
+	background-position: 0px -76px; top: 35px; width: 199px; height: 13px; -ms-zoom: 1;
+}
+.login .error_box_v3 {
+	background-position: 0px -120px; top: 16px; width: 280px; height: 27px;
+}
+.login .error_box_v4 {
+	background-position: 0px -182px; left: -203px; top: 16px; width: 280px; height: 47px;
+}
+a.help_txt {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat 48px -59px; width: 60px; color: rgb(119, 119, 119); padding-right: 10px; font-size: 11px; text-decoration: underline; display: block; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat 48px -60px;
+}
+#footer {
+	margin: 0px; padding: 30px 0px 50px; width: 100%; text-align: center; clear: both; border-top-color: rgb(222, 222, 222); border-top-width: 1px; border-top-style: solid;
+}
+#footer a {
+	width: auto; color: rgb(68, 68, 68); text-decoration: none;
+}
+#footer a:visited {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+#footer a:hover {
+	text-decoration: underline;
+}
+#footer .info {
+	margin: 0px 0px 11px; color: rgb(126, 126, 126); line-height: 15px; font-size: 11px;
+}
+#footer .info2 {
+	margin: -3px 0px 13px; line-height: 18px; font-size: 11px;
+}
+#footer .info2 span {
+	background: url("https://static.nid.naver.com/images/login/common/bu_bar.gif") no-repeat 1px 50%; padding-left: 7px; font-size: 11px; margin-left: 2px; display: inline-block; _background-position: left 10%;
+}
+#footer address {
+	font: 9px/14px Verdana; color: rgb(68, 68, 68); font-size-adjust: none; font-stretch: normal;
+}
+#footer address img {
+	vertical-align: middle;
+}
+#footer address a {
+	font: bold 9px/normal Tahoma; color: rgb(68, 68, 68); font-size-adjust: none; font-stretch: normal;
+}
+#footer address a:hover {
+	color: rgb(45, 180, 0);
+}
+#footer address span {
+	font: 9px/14px Verdana; padding-left: 2px; font-size-adjust: none; font-stretch: normal;
+}
+#footer address em {
+	font: 9px/normal verdana; padding-left: 4px; font-size-adjust: none; font-stretch: normal;
+}
+#footer address .logo {
+	top: -2px; vertical-align: middle; position: relative;
+}
+* + html .login_error {
+	padding-top: 21px; -ms-zoom: 1;
+}
+.login_error .tit {
+	background: url("https://nid.naver.com/login/image/new/ico_error.gif") no-repeat 50% 0px; margin: 11px 0px 28px; text-align: center; padding-top: 67px;
+}
+.login_error .tit h2 {
+	background: url("https://nid.naver.com/login/image/new/sp_txt.png") no-repeat 50% 0px; width: 320px; height: 17px; text-indent: -999em; display: inline-block;
+}
+.login_error .tit p {
+	margin-top: 10px;
+}
+.login_error .tit .tit_h2 {
+	background-position: 50% -22px;
+}
+.login_error .tit .tit_h3 {
+	background-position: 50% -85px;
+}
+.login_error .tit .tit_h4 {
+	background-position: 50% -127px;
+}
+.login_error .tit .tit_h5 {
+	background-position: 50% -44px;
+}
+.login_error .tit .tit_h6 {
+	background-position: 50% -65px;
+}
+.login_error .tit .tit_h7 {
+	background-position: 50% -106px;
+}
+.login_error .tit .tit_h8 {
+	background-position: 50% -147px;
+}
+.login_box_v2 {
+	background: rgb(247, 247, 247); margin: 0px auto; padding: 28px 39px; border: 1px solid rgb(235, 235, 235); width: 530px; display: block; position: relative;
+}
+.login_box_v2 fieldset {
+	margin: 0px auto; width: 300px; position: relative;
+}
+.error_txt {
+	padding: 12px 0px 7px;
+}
+.error_txt_v2 {
+	padding: 0px 0px 7px;
+}
+.error_v2 {
+	background: rgb(255, 255, 255); border: 1px solid rgb(198, 201, 204); width: 297px; height: 80px; margin-bottom: 6px; display: block; position: relative;
+}
+.error_v2 a {
+	top: 0px; width: 91px; height: 80px; text-align: center; right: 0px; color: rgb(153, 153, 153); letter-spacing: -1px; font-size: 11px; text-decoration: none !important; display: block; position: absolute;
+}
+.error_v2 a span {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat -361px 1px; margin: 32px 0px 0px; color: rgb(153, 153, 153); padding-left: 13px; text-decoration: none; display: inline-block; cursor: pointer; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat -361px 1px;
+}
+.error_v2 {
+	background: rgb(255, 255, 255); border: 1px solid rgb(198, 201, 204); width: 297px; height: 80px; margin-bottom: 6px; display: block; position: relative;
+}
+.error_v2 a {
+	top: 0px; width: 91px; height: 40px; right: 0px; color: rgb(153, 153, 153); letter-spacing: -1px; font-size: 11px; text-decoration: none !important; display: block; position: absolute;
+}
+.error_v2 a.btn_sound {
+	top: 40px; height: 39px; border-top-color: rgb(237, 237, 237); border-top-width: 1px; border-top-style: solid;
+}
+.error_v2 a.btn_img {
+	top: 40px; height: 39px; border-top-color: rgb(237, 237, 237); border-top-width: 1px; border-top-style: solid;
+}
+.error_v2 a span {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat -361px 1px; margin: 12px 0px 0px 7px; color: rgb(153, 153, 153); padding-left: 13px; text-decoration: none; display: block; cursor: pointer; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat -361px 1px;
+}
+.error_v2 a.btn_sound span {
+	background-position: -361px -39px;
+}
+.error_v2 a.btn_refresh span {
+	text-align: left; padding-top: 1px; margin-top: 14px;
+}
+.error_v2 a.btn_img span {
+	background-position: -360px -79px; padding-left: 16px; margin-left: 5px;
+}
+.error_sound .error_img {
+	background: url("https://nid.naver.com/login/image/new/ico_sound.gif") no-repeat 93px 13px; margin: -1px 0px 0px -1px; border: 1px solid rgb(24, 183, 17); height: 26px; color: rgb(153, 153, 153); letter-spacing: -1px; padding-top: 54px; font-size: 11px; _position: absolute; _top: 0; _left: 0;
+}
+.error_sound .error_v2 a.btn_img {
+	_left: 206px;
+}
+.error_img {
+	width: 205px; text-align: center; border-right-color: rgb(237, 237, 237); border-right-width: 1px; border-right-style: solid; display: inline-block; _display: block;
+}
+.error_img img {
+	vertical-align: top;
+}
+.login_error .error_box_v3 {
+	background-position: 0px -120px; top: 277px; width: 280px; height: 27px; position: absolute;
+}
+.btn_login2 {
+	top: 243px; right: 1px; position: absolute;
+}
+.btn_er {
+	text-align: center; display: block;
+}
+.btn_login3 {
+	margin-top: 20px;
+}
+.btn_home {
+	margin-top: 20px;
+}
+.btn_pw {
+	margin: -16px 0px 28px;
+}
+.btn_ok2 {
+	margin: -16px 0px 28px;
+}
+.login_error .login_help {
+	width: auto; padding-top: 34px; position: relative;
+}
+.input_box_v2 {
+	margin-bottom: 10px;
+}
+.id_num {
+	border-top-color: rgb(235, 235, 236); border-top-width: 1px; border-top-style: solid;
+}
+.tab_m {
+	overflow: hidden; margin-bottom: 10px; -ms-zoom: 1;
+}
+.tab_m li {
+	float: left;
+}
+.tab_m li a {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat 0px -113px; width: 150px; height: 32px; text-align: center; color: rgb(153, 153, 153); line-height: 32px; font-size: 12px; font-weight: normal; text-decoration: none; display: block; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat 0 -113px;
+}
+.tab_m li a:hover {
+	color: rgb(153, 153, 153); text-decoration: none;
+}
+.tab_m li a:visited {
+	color: rgb(153, 153, 153); text-decoration: none;
+}
+.tab_m li a.on {
+	background-position: 0px -80px; color: rgb(102, 102, 102); font-weight: bold;
+}
+.tab_m li.m2 a {
+	background-position: -150px -80px; width: 149px;
+}
+.tab_m li.m2 a.on {
+	background-position: -150px -113px;
+}
+.email {
+	_margin-bottom: -6px;
+}
+.email {
+	height: 34px; position: relative;
+}
+.c_phone {
+	height: 34px; position: relative;
+}
+.c_phone .input_box {
+	left: 80px; top: 0px; position: absolute;
+}
+.login_box_v2 h3 {
+	color: rgb(51, 51, 51); letter-spacing: -1px; font-size: 12px; margin-bottom: 10px;
+}
+.login_box_v2 .par2 {
+	margin-top: 15px;
+}
+.login_box_v2 .par_v2 {
+	margin-bottom: 39px;
+}
+.login_box_v3 {
+	padding: 19px 39px 20px;
+}
+.login_box_v4 {
+	padding: 19px 39px 30px;
+}
+.login_box_v5 {
+	margin: 0px auto 23px;
+}
+.login_box_v5 p br {
+	line-height: 18px;
+}
+.login_box_v5 .par2 {
+	margin-top: 17px;
+}
+.tit2 a {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.tit2 a:visited {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.sp_lst {
+	width: 100%; margin-top: 25px;
+}
+.sp_lst caption {
+	left: 0px; top: 0px; width: 1px; height: 1px; line-height: 0; overflow: hidden; font-size: 0px; visibility: hidden;
+}
+.sp_lst {
+	padding: 0px; margin-top: 5px; border-collapse: collapse;
+}
+.sp_lst th {
+	background: rgb(239, 239, 239); border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(205, 205, 205) rgb(227, 227, 227) currentColor; padding: 5px 0px; text-align: center; color: rgb(51, 51, 51); font-size: 11px; font-weight: normal;
+}
+.sp_lst td {
+	background: rgb(255, 255, 255); padding: 5px 10px; border: 1px solid rgb(227, 227, 227); color: rgb(102, 102, 102); font-size: 11px; font-weight: normal; vertical-align: top;
+}
+.sp_lst .tl {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.sp_lst .tr {
+	border-right-color: currentColor; border-right-width: medium; border-right-style: none;
+}
+.sp_lst td.td_v {
+	background: rgb(255, 255, 255); border-right-color: currentColor; border-left-color: currentColor; border-right-width: medium; border-left-width: medium; border-right-style: none; border-left-style: none;
+}
+.sp_lst td.td_v div {
+	position: relative;
+}
+.sp_lst td.td_v em {
+	left: 0px; top: 0px; color: rgb(51, 51, 51); overflow: hidden; position: absolute;
+}
+.sp_lst td.td_v span {
+	padding-left: 50px; display: inline-block;
+}
+.sp_lst_v2 td {
+	text-align: center;
+}
+.login_box_v2 a.b_email {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat 0px -152px; margin: 9px 0px 16px; left: 405px; width: 122px; color: rgb(119, 119, 119); line-height: 13px; letter-spacing: -1px; padding-left: 5px; font-size: 11px; display: block; position: relative; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat 0 -152px;
+}
+.login_box_v2 a.b_email:visited {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat 0px -152px; margin: 9px 0px 16px; left: 405px; width: 122px; color: rgb(119, 119, 119); line-height: 13px; letter-spacing: -1px; padding-left: 5px; font-size: 11px; display: block; position: relative; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat 0 -152px;
+}
+.tit a {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.login_box_v2 a {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.tit a:hover {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.login_box_v2 a:hover {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.tit a:visited {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.login_box_v2 a:visited {
+	color: rgb(24, 183, 17); text-decoration: underline;
+}
+.error_dl {
+	overflow: hidden; margin-bottom: 20px; -ms-zoom: 1;
+}
+.error_dl dt {
+	padding: 0px 4px 5px 0px; overflow: hidden; float: left;
+}
+.error_dl dd {
+	color: rgb(51, 51, 51); padding-bottom: 5px;
+}
+.error_dl dd.pd {
+	
+}
+.input_box {
+	position: relative;
+}
+.lbl_in {
+	left: 10px; top: 9px; color: rgb(170, 170, 170); font-size: 14px; font-weight: bold; position: absolute; _top: 11px;
+}
+.int_box {
+	margin-bottom: 6px; display: block;
+}
+.int {
+	background: url("https://nid.naver.com/login/image/new/sp_bg.png") no-repeat 0px 0px; padding: 10px 0px 0px 10px; border: currentColor; width: 100%; height: 24px; color: rgb(51, 51, 51); font-size: 14px; font-weight: bold;
+}
+.focus .int_box {
+	
+}
+.focus .int {
+	background-position: 0px -37px;
+}
+:root .lbl_in {
+	top: 9px; line-height: 18px;
+}
+:root .int {
+	height: 31px; padding-top: 3px;
+}
+.login_box_v2 .int {
+	background-position: 0px -385px;
+}
+.login_box_v2 .focus .int {
+	background-position: 0px -422px;
+}
+.id_num .int {
+	background-position: -234px 0px;
+}
+.id_num .focus .int {
+	background-position: -234px -37px;
+}
+.c_phone .int {
+	background-position: 0px -462px;
+}
+.c_phone .focus .int {
+	background-position: 0px -500px;
+}
+.id_num {
+	overflow: hidden; -ms-zoom: 1;
+}
+.id_num .input_box {
+	float: left;
+}
+.id_num .bar2 {
+	float: left;
+}
+.id_num .bar2 {
+	margin: 0px 10px; left: 4px; line-height: 35px; position: relative; _left: 0; _margin: 0 5px;
+}
+.otp .login_tit {
+	margin: 0px 0px 13px; color: rgb(51, 51, 51);
+}
+.otp .btn_login {
+	top: 45px;
+}
+.otp .error_box_v4 {
+	background-position: 0px -538px; left: 0px; top: 16px; width: 280px; height: 47px;
+}
+.otp .dis_id {
+	top: 93px;
+}
+.disposable .login_tit {
+	margin: 0px 0px 8px; color: rgb(51, 51, 51);
+}
+.disposable .btn_login {
+	top: 40px;
+}
+.disposable .dis_id {
+	top: 87px;
+}
+.logout .logout_tit {
+	margin: 0px 0px 12px; color: rgb(51, 51, 51); display: block;
+}
+.logout .btn_login {
+	top: 28px;
+}
+.logout .dis_id {
+	top: 115px;
+}
+.logout .error_box_v {
+	margin-top: 30px;
+}
+.ip .login_tit {
+	margin: 0px 0px 13px; color: rgb(51, 51, 51);
+}
+.ip .btn_login {
+	top: 45px;
+}
+.ip .dis_id {
+	top: 132px;
+}
+.ip .error_box_v5 {
+	background-position: 0px -611px; left: 0px; top: 16px; width: 280px; height: 29px;
+}
+.ip .error_box_v {
+	top: 200px;
+}
+.partner .partner_logo {
+	margin-bottom: 5px;
+}
+.partner .login_tit {
+	margin: 0px 0px 17px; color: rgb(51, 51, 51);
+}
+.partner .btn_login {
+	margin-top: -80px; float: right; position: relative;
+}
+.partner .dis_id {
+	top: 0px; clear: both; margin-top: 7px; float: right; position: relative;
+}
+.partner .error_box_v {
+	top: 210px;
+}
+.foreign .int_v2 {
+	background-position: 0px -385px;
+}
+.foreign .email .int {
+	background-position: 0px -385px;
+}
+.foreign .focus .int_v2 {
+	background-position: 0px -422px;
+}
+.foreign .focus.email .int {
+	background-position: 0px -422px;
+}
+.foreign .input_box {
+	-ms-zoom: 1;
+}
+.foreign .f_info {
+	text-decoration: underline; margin-top: 16px; display: inline-block;
+}
+.foreign .btn_confirm {
+	top: 125px; right: 1px; position: absolute;
+}
+.foreign .btn_confirm2 {
+	left: 50%; top: 125px; margin-left: -54px; position: absolute;
+}
+.foreign .error_box_v {
+	top: 220px;
+}
+.foreign_v2 .selectbox-box {
+	background: url("https://nid.naver.com/login/image/new/bg_select2.png") no-repeat; width: 147px; cursor: pointer;
+}
+.foreign_v2 .selectbox-focused .selectbox-box {
+	background: url("https://nid.naver.com/login/image/new/bg_select2.png") no-repeat 0px -36px;
+}
+.foreign_v2 .selectbox-layer {
+	width: 145px;
+}
+.foreign_v2 #s2 {
+	margin-right: 5px; float: left;
+}
+.foreign .tab_m li a {
+	background: url("https://nid.naver.com/login/image/new/sp_tab.png") no-repeat 0px -33px;
+}
+.foreign .tab_m li a.on {
+	
+}
+.foreign .tab_m li.m2 a {
+	background-position: -150px 0px;
+}
+.foreign .tab_m li.m2 a.on {
+	background-position: -150px -33px;
+}
+.foreign .frg_nt_msg {
+	color: rgb(228, 108, 10);
+}
+.selectbox-noscript .selectbox-source {
+	left: 0px; top: 0px; display: inline; position: absolute;
+}
+.selectbox-source {
+	left: -9999px; position: absolute;
+}
+.selectbox-focused .selectbox-box {
+	background: url("https://nid.naver.com/login/image/new/sp_bg.png") no-repeat -224px -500px;
+}
+.selectbox-box {
+	background: url("https://nid.naver.com/login/image/new/sp_bg.png") no-repeat -224px -462px; width: 75px; height: 34px; float: left; position: relative; cursor: pointer;
+}
+.selectbox-label {
+	margin: 6px 0px 0px 7px; padding: 3px; color: rgb(51, 51, 51); overflow: hidden; font-size: 14px; font-weight: bold; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.selectbox-layer {
+	background: rgb(255, 255, 255); border: 1px solid rgb(136, 136, 136); width: 73px; margin-top: 0px; display: none; position: absolute; z-index: 30;
+}
+.selectbox-list ul {
+	list-style: none; margin: 0px; padding: 0px;
+}
+.selectbox-list ul li {
+	padding: 3px 3px 2px 6px; color: rgb(51, 51, 51); overflow: hidden; font-size: 12px; white-space: nowrap; cursor: pointer; -ms-zoom: 1; -ms-text-overflow: ellipsis; background-color: rgb(255, 255, 255);
+}
+.selectbox-list ul li.selectbox-item-over {
+	background: url("https://nid.naver.com/login/image/new/bg_phone.gif") repeat-x;
+}
+.login_pop {
+	width: 320px; margin-left: 20px;
+}
+.login_popc {
+	width: 370px; margin-left: 20px;
+}
+.login_popc .login_box_v2 {
+	margin: 0px; width: 350px;
+}
+.login_popc .login_box_v4 {
+	padding: 19px 0px 20px;
+}
+.login_pope {
+	width: 440px; margin-left: 20px;
+}
+.login_pope .login_box_v2 {
+	margin: 0px; padding: 20px 0px 20px 15px; width: 400px;
+}
+.login_pope .login_box_v5 {
+	padding: 19px 0px 20px;
+}
+.login_pope .login_box_v2 a.b_email {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat 0px -152px; margin: 9px 0px 16px; left: 275px; width: 122px; color: rgb(119, 119, 119); line-height: 13px; letter-spacing: -1px; padding-left: 5px; font-size: 11px; display: block; position: relative; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat 0 -152px;
+}
+.login_box_v2 a.b_email:visited {
+	background: url("https://nid.naver.com/login/image/new/sp_ico.png") no-repeat 0px -152px; margin: 9px 0px 16px; left: 275px; width: 122px; color: rgb(119, 119, 119); line-height: 13px; letter-spacing: -1px; padding-left: 5px; font-size: 11px; display: block; position: relative; _background: url(https://nid.naver.com/login/image/new/sp_ico.gif) no-repeat 0 -152px;
+}
+.pop {
+	padding: 5px 25px 0px;
+}
+.pop #wrap {
+	-ms-zoom: 1;
+}
+.pop #content {
+	-ms-zoom: 1; _margin: 0; _padding-right: 0;
+}
+.pop #container {
+	-ms-zoom: 1;
+}
+.pop h1 a {
+	background: url("https://nid.naver.com/login/image/new/logo_pop.png") no-repeat; width: 109px; height: 20px; text-indent: -999em; display: block;
+}
+.pop .login_help {
+	padding: 13px 5px 0px; width: 310px; margin-left: -10px; border-top-color: rgb(222, 222, 222); border-top-width: 1px; border-top-style: solid;
+}
+.pop .login {
+	_margin: 0;
+}
+.banner_m {
+	left: 10px; top: 171px; position: absolute;
+}
+.new_device p {
+	margin: -3px 0px 12px; color: rgb(153, 153, 153); line-height: 18px;
+}
+.new_device p strong {
+	color: rgb(51, 51, 51);
+}
+.new_device .btn {
+	margin: 46px 0px 0px; text-align: center;
+}
+.new_device .btn a {
+	background: url("https://static.nid.naver.com/images/login/device/sp_new_device.gif") no-repeat 0px 0px; line-height: 999px; overflow: hidden; vertical-align: top; display: inline-block;
+}
+.new_device .btn .add {
+	margin: 0px 4px 0px 0px; width: 76px; height: 36px;
+}
+.new_device .btn .cancel {
+	background-position: -84px 0px; width: 74px; height: 34px;
+}
+.restrict #wrap {
+	margin: 0px auto; width: 710px;
+}
+.restrict #header {
+	padding-top: 70px;
+}
+.restrict .content {
+	text-align: center;
+}
+.restrict h2 {
+	background: url("https://nid.naver.com/login/image/new/sp_restrict2.png") no-repeat; margin: 0px auto;
+}
+.restrict .rs_login {
+	margin: 39px auto 8px; width: 283px; height: 86px;
+}
+.restrict .rs_use {
+	background-position: 0px -90px; margin: 31px auto 9px; width: 280px; height: 84px;
+}
+.restrict .desc {
+	color: rgb(102, 102, 102); line-height: 17px;
+}
+.restrict .desc em {
+	color: rgb(6, 142, 0); padding-bottom: 3px; display: inline-block;
+}
+.restrict .desc_sub {
+	background: url("https://nid.naver.com/login/image/new/bg_dot.gif") no-repeat 0px 7px; color: rgb(119, 119, 119); line-height: 18px; padding-left: 9px; font-size: 12px; margin-top: 6px;
+}
+.restrict .box {
+	padding: 29px 39px 25px; border: 1px solid rgb(235, 235, 236); text-align: left; background-color: rgb(247, 247, 247);
+}
+.restrict .desc + .box {
+	margin: 20px 50px 0px;
+}
+.restrict .cont {
+	padding: 0px 60px; text-align: left;
+}
+.restrict .desc + .cont {
+	margin-top: 38px;
+}
+.restrict h3 {
+	color: rgb(51, 51, 51); letter-spacing: -1px; font-size: 12px; margin-bottom: 7px;
+}
+.restrict table {
+	width: 100%; font-size: 11px; margin-bottom: 28px; border-top-color: rgb(203, 203, 203); border-top-width: 1px; border-top-style: solid;
+}
+.restrict .box table {
+	margin-bottom: 18px;
+}
+.restrict th {
+	padding: 6px 12px 5px; text-align: center;
+}
+.restrict td {
+	padding: 6px 12px 5px; text-align: center;
+}
+.restrict th {
+	color: rgb(51, 51, 51); font-weight: normal; border-bottom-color: rgb(227, 227, 227); border-left-color: rgb(227, 227, 227); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid; background-color: rgb(239, 239, 239);
+}
+.restrict th:first-child {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.restrict td:first-child {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.restrict td {
+	color: rgb(102, 102, 102); border-bottom-color: rgb(227, 227, 227); border-left-color: rgb(227, 227, 227); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid; background-color: rgb(255, 255, 255);
+}
+.restrict td span {
+	width: 358px; overflow: hidden; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.restrict .cont .box {
+	padding: 11px 15px;
+}
+.restrict .cont .box .desc {
+	color: rgb(53, 53, 53);
+}
+.restrict .service {
+	width: 81px;
+}
+.restrict .title {
+	width: 309px;
+}
+.restrict .date {
+	width: 80px;
+}
+.restrict .input_txt {
+	margin: 0px 3px 0px 2px; letter-spacing: 0px; font-size: 12px; display: inline-block; position: relative; cursor: text;
+}
+.restrict .input_txt .phold {
+	left: 8px; top: 3px; color: rgb(170, 170, 170); line-height: 18px; position: absolute; z-index: 50;
+}
+.restrict .input_txt input {
+	border-width: 1px; border-style: solid; border-color: rgb(157, 157, 157) rgb(208, 208, 208) rgb(208, 208, 208) rgb(157, 157, 157); padding: 3px 6px 2px 7px; width: 27px; height: 15px; color: rgb(85, 85, 85); line-height: 12px; font-size: 12px; position: relative;
+}
+.restrict .box dl {
+	line-height: 21px; margin-top: -3px;
+}
+.restrict .box dt {
+	color: rgb(102, 102, 102); float: left;
+}
+.restrict .box dd {
+	color: rgb(51, 51, 51); overflow: hidden; padding-left: 4px;
+}
+.restrict .btn_area {
+	margin-top: 38px;
+}
+.restrict .box + .btn_area {
+	margin-top: 30px;
+}
+.restrict .btn_area2 {
+	margin: 38px 0px 17px; overflow: hidden;
+}
+.restrict .btn_area2 strong {
+	color: rgb(119, 119, 119); float: left;
+}
+.restrict .btn_area2 b {
+	font-weight: normal;
+}
+.restrict .btn_area2 span {
+	color: rgb(119, 119, 119); float: right;
+}
+.restrict .btn_area2 span b {
+	margin: 0px 4px; color: rgb(215, 218, 220);
+}
+@media 
+{
+.restrict .input_txt .phold {
+	top: 2px;
+}
+}
+.restrict #pop {
+	margin: 0px auto; width: 440px;
+}
+.restrict #pop #header {
+	padding-top: 20px;
+}
+.restrict #pop .desc {
+	color: rgb(102, 102, 102); line-height: 17px;
+}
+.restrict #pop .box {
+	padding: 19px 29px 15px; border: 1px solid rgb(235, 235, 236); text-align: left; background-color: rgb(247, 247, 247);
+}
+.restrict #pop .desc + .box {
+	margin: 20px 5px;
+}
+.restrict #pop td span {
+	width: 158px; overflow: hidden; display: block; white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.restrict #pop .service {
+	width: 51px;
+}
+.restrict #pop .title {
+	width: 109px;
+}
+.restrict #pop .date {
+	width: 40px;
+}
+.restrict .rs_harmful1 {
+	background-position: 0px -180px; margin: 31px auto 9px; width: 290px; height: 84px;
+}
+.restrict .rs_abusing1 {
+	background-position: 0px -180px; margin: 31px auto 9px; width: 290px; height: 84px;
+}
+.restrict .rs_harmful2 {
+	background-position: 0px -450px; margin: 31px auto 9px; width: 359px; height: 84px;
+}
+.restrict .rs_abusing2 {
+	background-position: 0px -450px; margin: 31px auto 9px; width: 359px; height: 84px;
+}
+.restrict .rs_permanent {
+	background-position: 0px -270px; margin: 31px auto 9px; width: 280px; height: 84px;
+}
+.restrict .rs_error {
+	background-position: 0px -360px; margin: 31px auto 9px; width: 250px; height: 84px;
+}
+.restrict .desc span {
+	color: rgb(24, 183, 17);
+}
+.restrict .desc strong {
+	color: rgb(24, 183, 17);
+}
+.restrict .desc a {
+	color: rgb(153, 153, 153); text-decoration: underline;
+}
+.restrict .desc + .desc {
+	margin-top: 17px;
+}
+.restrict .desc + .btn_area {
+	margin: 11px 0px 35px;
+}
+.restrict .box_v2 {
+	margin: 0px 50px 30px; padding: 29px 39px 25px;
+}
+.restrict .box_v2 dl {
+	line-height: 17px; margin-top: 9px;
+}
+.restrict .box_v2 dt {
+	float: none;
+}
+.restrict .box_v2 dd {
+	padding: 0px 0px 16px;
+}
+.restrict .box_v2 dd a {
+	color: rgb(153, 153, 153); text-decoration: underline;
+}
+.restrict .box_v2 dd em {
+	color: rgb(215, 218, 220);
+}
+.restrict .box_v2 th {
+	padding: 6px 9px 5px;
+}
+.restrict .box_v2 td {
+	padding: 10px 9px;
+}
+.restrict .box_v2 td {
+	text-align: left; vertical-align: top;
+}
+.restrict .box_v2 .service {
+	width: 56px;
+}
+.restrict .box_v2 .title {
+	width: 95px;
+}
+.restrict .box_v2 .date {
+	width: 58px;
+}
+.restrict .box_v2 .reason {
+	width: 156px;
+}
+.restrict .box_v2 .ip {
+	width: 86px;
+}
+.restrict .box_v2 .btn_area {
+	margin: -10px 0px 14px; text-align: right; letter-spacing: -1px; text-decoration: underline;
+}
+.restrict .box_v2 .mail {
+	background: url("../img/ico_arr.png") no-repeat 0px 2px; color: rgb(119, 119, 119); padding-left: 7px; font-size: 11px;
+}
+.adt_login .noti {
+	color: rgb(51, 51, 51); margin-top: 18px;
+}
+.adt_login .login {
+	top: 12px; height: 230px;
+}
+.adt_login .login .btn_bk {
+	color: rgb(102, 102, 102); font-weight: bold; text-decoration: underline; margin-top: 25px; display: inline-block;
+}
+.adt_login .login_help {
+	bottom: -5px;
+}
+.adt_login .ip_box .lbl_type {
+	background-position: -138px -50px; top: 0px;
+}
+.adt_login .noti_area {
+	padding: 76px 0px 0px 101px; height: 202px; position: relative;
+}
+.adt_login .noti_area_v2 {
+	padding: 64px 0px 0px 101px; height: 157px;
+}
+.adt_login .noti_area img {
+	left: 0px; top: 66px; position: absolute;
+}
+.adt_login .noti_area_v2 img {
+	top: 54px;
+}
+.adt_login .noti_area div p {
+	color: rgb(0, 0, 0); margin-bottom: 15px;
+}
+.adt_login .noti_area div a {
+	font-weight: bold; text-decoration: underline;
+}
