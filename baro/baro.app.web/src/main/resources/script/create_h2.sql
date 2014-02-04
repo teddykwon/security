@@ -64,3 +64,17 @@ create table roles_hierarchy (
 	foreign key(parent_role) references roles(authority),
 	foreign key(child_role) references roles(authority)
 );
+create table secured_resources (
+	resource_id varchar(10) not null primary key,
+	resource_name varchar(50),
+	resource_pattern varchar(100) not null,
+	resource_type varchar(10),
+	sort_order integer
+);
+create table secured_resources_role (
+	resource_id varchar(10) not null,
+	authority varchar(50) not null,
+	primary key(resource_id, authority),
+	foreign key(resource_id) references secured_resources(resource_id),
+	foreign key(authority) references roles(authority)
+);
