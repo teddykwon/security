@@ -6,7 +6,7 @@ create table Customer (
 	signupdate timestamp,
 	primary key (id)
 	
-)
+);
 
 
 /* 회원 테이블 */
@@ -38,3 +38,29 @@ CREATE TABLE `users` (
 	KEY `idx_reg_time` (`reg_time`),
 	KEY `idx_update_time` (`update_time`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='회원 정보';
+
+
+create table users (
+	user_id varchar(20) not null primary key,
+	password varchar(50) not null,
+	enabled boolean not null,
+	user_name varchar(50) not null
+);
+create table roles (
+	authority varchar(50) not null primary key,
+	role_name varchar(50)
+);
+create table authorities (
+	user_id varchar(20) not null,
+	authority varchar(50) not null,
+	primary key(user_id, authority),
+	foreign key(user_id) references users(user_id),
+	foreign key(authority) references roles(authority)
+);
+create table roles_hierarchy (
+	parent_role varchar(50) not null,
+	child_role varchar(50) not null,
+	primary key(parent_role, child_role),
+	foreign key(parent_role) references roles(authority),
+	foreign key(child_role) references roles(authority)
+);
